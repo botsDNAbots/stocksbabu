@@ -1,37 +1,39 @@
-[
-  {
-    "StockID": 1,
-    "StockName": "Apple Inc.",
-    "Symbol": "AAPL",
-    "Quantity": 150,
-    "Price": 182.25
-  },
-  {
-    "StockID": 2,
-    "StockName": "Microsoft Corp.",
-    "Symbol": "MSFT",
-    "Quantity": 200,
-    "Price": 345.67
-  },
-  {
-    "StockID": 3,
-    "StockName": "Amazon.com Inc.",
-    "Symbol": "AMZN",
-    "Quantity": 100,
-    "Price": 132.50
-  },
-  {
-    "StockID": 4,
-    "StockName": "Tesla Inc.",
-    "Symbol": "TSLA",
-    "Quantity": 50,
-    "Price": 245.10
-  },
-  {
-    "StockID": 5,
-    "StockName": "Alphabet Inc.",
-    "Symbol": "GOOGL",
-    "Quantity": 75,
-    "Price": 141.75
-  }
-]
+{
+  "stocks": [
+    {
+      "StockID": 1,
+      "StockName": "Apple Inc.",
+      "Symbol": "AAPL",
+      "Quantity": 150,
+      "Price": 182.25
+    },
+    {
+      "StockID": 2,
+      "StockName": "Microsoft Corp.",
+      "Symbol": "MSFT",
+      "Quantity": 200,
+      "Price": 345.67
+    },
+    {
+      "StockID": 3,
+      "StockName": "Amazon.com Inc.",
+      "Symbol": "AMZN",
+      "Quantity": 100,
+      "Price": 132.50
+    },
+    {
+      "StockID": 4,
+      "StockName": "Tesla Inc.",
+      "Symbol": "TSLA",
+      "Quantity": 50,
+      "Price": 245.10
+    },
+    {
+      "StockID": 5,
+      "StockName": "Alphabet Inc.",
+      "Symbol": "GOOGL",
+      "Quantity": 75,
+      "Price": 141.75
+    }
+  ]
+}
